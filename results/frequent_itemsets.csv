@@ -1,0 +1,215 @@
+﻿items,support,length
+weather=1,0.6610013073906021,1
+demand=normal,0.7517495962470199,1
+period=night,0.24509728524186727,1
+daytype=2,0.28777974313619936,1
+season=1,0.30608321156656154,1
+weather=2,0.2519418595708683,1
+period=morning_peak,0.16749980773667617,1
+period=daytime,0.2517880489117896,1
+period=evening_peak,0.16796123971391216,1
+weather=3,0.08682611704991156,1
+period=evening,0.16765361839575482,1
+daytype=1,0.6847650542182573,1
+demand=high,0.24825040375298008,1
+season=2,0.33907559793893716,1
+season=3,0.19072521725755595,1
+season=4,0.16411597323694532,1
+period=morning_peak & season=1,0.05160347612089518,2
+daytype=1 & period=evening,0.11505037299084826,2
+demand=normal & weather=3,0.07898177343689917,2
+demand=high & season=4,0.03383834499730831,2
+daytype=1 & season=1,0.2038760286087826,2
+demand=high & period=morning_peak,0.049911558871029764,2
+period=daytime & season=2,0.08490348381142813,2
+period=evening_peak & season=3,0.03183880642928555,2
+period=night & season=1,0.07252172575559486,2
+period=daytime & season=4,0.041067445974006,2
+daytype=1 & period=night,0.16734599707759748,2
+daytype=2 & demand=high,0.07775128816426978,2
+demand=normal & weather=1,0.4735830193032377,2
+daytype=1 & season=4,0.11058986387756671,2
+season=4 & weather=2,0.04152887795124202,2
+period=evening_peak & weather=1,0.11812658617242175,2
+daytype=1 & weather=3,0.06506190879027916,2
+daytype=1 & weather=2,0.17742059524725062,2
+demand=normal & period=evening_peak,0.05898638775667154,2
+daytype=2 & period=daytime,0.07244482042605553,2
+period=night & season=4,0.040913635314927324,2
+period=evening & weather=2,0.03499192494039837,2
+season=1 & weather=2,0.08428824117511344,2
+demand=normal & season=4,0.130277628239637,2
+demand=normal & period=night,0.24509728524186727,2
+period=night & weather=1,0.1635007306006306,2
+demand=high & weather=1,0.18741828808736447,2
+demand=high & season=1,0.036222410213027766,2
+demand=normal & period=evening,0.14711989540875184,2
+season=3 & weather=2,0.03814504345151119,2
+daytype=2 & weather=1,0.1999538568022764,2
+period=daytime & weather=1,0.1582711681919557,2
+period=morning_peak & weather=2,0.049603937552872415,2
+period=evening & season=3,0.03168499577020688,2
+daytype=1 & period=daytime,0.17242174882719372,2
+period=daytime & weather=2,0.0725986310851342,2
+daytype=2 & season=3,0.052526340075367224,2
+season=2 & weather=1,0.2198723371529647,2
+daytype=2 & season=4,0.047988925632546336,2
+daytype=1 & demand=normal,0.5201107436745367,2
+daytype=2 & period=night,0.07106052449434745,2
+period=evening_peak & season=1,0.05214181342767054,2
+period=night & weather=2,0.06106283165423364,2
+demand=normal & season=1,0.2698608013535338,2
+season=2 & weather=2,0.08797969699300162,2
+daytype=1 & season=2,0.23579174036760747,2
+daytype=2 & period=evening,0.047988925632546336,2
+period=evening & season=1,0.05198800276859186,2
+daytype=2 & period=morning_peak,0.04814273629162501,2
+period=morning_peak & weather=1,0.10259170960547566,2
+demand=normal & season=2,0.22210259170960547,2
+season=3 & weather=1,0.14089056371606554,2
+daytype=2 & weather=2,0.06721525801738061,2
+season=4 & weather=1,0.10428362685534108,2
+demand=normal & season=3,0.12950857494424364,2
+daytype=1 & demand=high,0.16465431054372068,2
+demand=high & weather=2,0.052987772052603244,2
+demand=high & period=daytime,0.06883026993770669,2
+season=2 & weather=3,0.03122356379297085,2
+period=daytime & season=1,0.07782819349380912,2
+daytype=1 & season=3,0.13450742136430055,2
+daytype=2 & season=1,0.09136353149273245,2
+period=evening & weather=1,0.11851111282011843,2
+daytype=1 & period=morning_peak,0.11474275167269092,2
+demand=high & season=2,0.1169730062293317,2
+period=daytime & season=3,0.047988925632546336,2
+daytype=1 & weather=1,0.44212873952164883,2
+demand=normal & period=morning_peak,0.1175882488656464,2
+daytype=2 & season=2,0.09590094593555333,2
+daytype=1 & period=evening_peak,0.11520418364992693,2
+period=evening_peak & weather=2,0.03368453433822964,2
+demand=high & season=3,0.061216642313312315,2
+demand=normal & weather=2,0.19895408751826502,2
+period=evening & season=2,0.056602322540952085,2
+period=night & season=3,0.047296777666692304,2
+daytype=2 & demand=normal,0.21002845497192957,2
+daytype=2 & period=evening_peak,0.04814273629162501,2
+demand=normal & period=daytime,0.1829577789740829,2
+period=morning_peak & season=2,0.056602322540952085,2
+season=1 & weather=1,0.19595477966623087,2
+demand=high & period=evening_peak,0.10897485195724063,2
+period=night & season=2,0.08436514650465277,2
+period=morning_peak & season=3,0.031915711758824884,2
+period=evening_peak & season=2,0.056602322540952085,2
+daytype=2 & demand=normal & weather=1,0.1383526878412674,3
+daytype=1 & season=4 & weather=1,0.0630623702222564,3
+daytype=2 & period=evening_peak & weather=1,0.03383834499730831,3
+demand=high & period=daytime & weather=1,0.05314158271168192,3
+demand=normal & period=night & season=4,0.040913635314927324,3
+period=daytime & season=1 & weather=1,0.04775820964392832,3
+demand=high & period=evening_peak & weather=1,0.08451895716373145,3
+daytype=1 & demand=high & season=2,0.0779820041528878,3
+period=morning_peak & season=1 & weather=1,0.03168499577020688,3
+daytype=2 & demand=normal & season=4,0.0362993155425671,3
+demand=normal & period=night & weather=1,0.1635007306006306,3
+daytype=2 & demand=normal & period=night,0.07106052449434745,3
+demand=high & period=morning_peak & weather=1,0.03168499577020688,3
+demand=normal & period=morning_peak & season=1,0.04214412058755672,3
+daytype=1 & season=2 & weather=2,0.060370683688379605,3
+demand=normal & period=daytime & season=3,0.033069291701914943,3
+daytype=1 & demand=normal & season=1,0.177958932554026,3
+daytype=1 & demand=normal & weather=1,0.3204645081904176,3
+demand=high & season=3 & weather=1,0.04929631623471507,3
+daytype=2 & demand=high & weather=1,0.061601168961009,3
+daytype=1 & period=night & season=1,0.04775820964392832,3
+daytype=2 & demand=normal & period=evening,0.044528185803276166,3
+demand=normal & period=daytime & weather=1,0.10512958548027378,3
+demand=normal & period=morning_peak & weather=2,0.03330000769053296,3
+demand=normal & period=evening & season=1,0.05083442282550181,3
+demand=normal & period=night & season=3,0.047296777666692304,3
+demand=normal & period=evening_peak & weather=1,0.033607629008690305,3
+demand=normal & period=morning_peak & season=2,0.03483811428131969,3
+daytype=1 & season=1 & weather=2,0.05714065984772745,3
+period=night & season=2 & weather=1,0.055294931938783355,3
+daytype=1 & period=morning_peak & weather=2,0.03645312620164577,3
+demand=normal & season=2 & weather=1,0.13220026147812045,3
+daytype=1 & period=daytime & weather=1,0.10136122433284626,3
+daytype=1 & demand=high & period=evening_peak,0.08105821733446128,3
+daytype=1 & demand=normal & period=evening,0.09843882181035146,3
+demand=normal & season=1 & weather=2,0.07575174959624702,3
+daytype=1 & period=morning_peak & season=2,0.03937552872414058,3
+daytype=1 & demand=high & weather=1,0.12166423133123125,3
+daytype=2 & period=night & weather=1,0.04721987233715296,3
+demand=normal & period=daytime & season=1,0.06913789125586403,3
+daytype=1 & period=night & weather=1,0.11158963316157809,3
+daytype=1 & period=daytime & season=2,0.059063293086210875,3
+daytype=1 & demand=normal & period=night,0.16734599707759748,3
+daytype=1 & demand=normal & season=4,0.08944089825424902,3
+demand=normal & season=4 & weather=2,0.032300238406521575,3
+daytype=2 & period=daytime & weather=1,0.05191109743905253,3
+daytype=1 & demand=normal & weather=3,0.058755671768053526,3
+daytype=1 & period=morning_peak & weather=1,0.0663692993924479,3
+demand=high & season=2 & weather=1,0.08767207567484427,3
+daytype=2 & demand=normal & season=2,0.05983234638160424,3
+daytype=1 & period=night & season=2,0.058601861108974855,3
+daytype=1 & demand=normal & period=evening_peak,0.03414596631546566,3
+demand=normal & season=4 & weather=1,0.08059678535722525,3
+daytype=1 & period=daytime & season=1,0.05198800276859186,3
+daytype=2 & season=2 & weather=1,0.061601168961009,3
+demand=normal & period=evening & weather=2,0.032761670383757595,3
+daytype=1 & period=evening_peak & weather=1,0.08105821733446128,3
+daytype=2 & demand=normal & season=3,0.03237714373606091,3
+daytype=1 & period=night & weather=2,0.03991386603091594,3
+period=night & season=3 & weather=1,0.03499192494039837,3
+period=evening_peak & season=1 & weather=1,0.03591478889487042,3
+daytype=1 & period=evening & season=2,0.03937552872414058,3
+daytype=1 & demand=normal & season=3,0.09490117665154195,3
+daytype=2 & demand=normal & season=1,0.0815196493116973,3
+demand=normal & season=1 & weather=1,0.16919172498654156,3
+daytype=2 & demand=high & period=daytime,0.046681535030377606,3
+period=morning_peak & season=2 & weather=1,0.03237714373606091,3
+demand=normal & period=evening & weather=1,0.10043836037837423,3
+daytype=1 & season=2 & weather=1,0.15188802584019073,3
+daytype=1 & demand=normal & period=morning_peak,0.0669845420287626,3
+daytype=1 & season=3 & weather=1,0.0987464431285088,3
+daytype=1 & period=daytime & weather=2,0.05491040529108667,3
+period=evening_peak & season=2 & weather=1,0.03976005537183727,3
+daytype=1 & period=evening & season=1,0.03476120895178036,3
+daytype=2 & period=morning_peak & weather=1,0.032915481042836266,3
+demand=high & period=daytime & season=2,0.035530262247173726,3
+daytype=2 & demand=high & season=2,0.03606859955394909,3
+demand=normal & period=night & season=1,0.07252172575559486,3
+daytype=1 & season=1 & weather=1,0.1284319003306929,3
+daytype=2 & season=3 & weather=1,0.04099054064446666,3
+demand=normal & period=evening & season=2,0.04429746981465815,3
+daytype=2 & demand=normal & period=morning_peak,0.04652772437129893,3
+daytype=1 & demand=normal & period=daytime,0.15319541644235946,3
+demand=normal & period=daytime & weather=2,0.05814042913173883,3
+daytype=2 & season=4 & weather=1,0.036222410213027766,3
+daytype=2 & demand=normal & weather=2,0.05260324540490656,3
+period=evening & season=2 & weather=1,0.03945243405367992,3
+daytype=1 & period=night & season=3,0.03345381834961163,3
+daytype=1 & period=evening_peak & season=1,0.034915019610859035,3
+daytype=1 & demand=high & weather=2,0.036683842190263785,3
+daytype=1 & demand=high & season=3,0.039606244712758594,3
+demand=normal & period=night & season=2,0.08436514650465277,3
+daytype=1 & demand=high & period=morning_peak,0.04775820964392832,3
+demand=normal & period=evening_peak & season=1,0.035222640929016384,3
+demand=normal & period=night & weather=2,0.06106283165423364,3
+daytype=2 & season=1 & weather=1,0.06113973698377297,3
+daytype=1 & period=daytime & season=3,0.03368453433822964,3
+daytype=1 & period=morning_peak & season=1,0.03445358763362301,3
+daytype=2 & period=evening & weather=1,0.034069060985926325,3
+daytype=1 & demand=normal & season=2,0.1578097362147197,3
+demand=normal & season=2 & weather=2,0.06313927555179574,3
+daytype=1 & period=evening_peak & season=2,0.03937552872414058,3
+period=evening & season=1 & weather=1,0.035684072906252404,3
+demand=normal & period=daytime & season=2,0.0493732215642544,3
+daytype=1 & period=evening & weather=1,0.0817503653003153,3
+period=daytime & season=3 & weather=1,0.03476120895178036,3
+demand=normal & period=daytime & season=4,0.03137737445204953,3
+period=daytime & season=2 & weather=1,0.052987772052603244,3
+demand=high & period=evening_peak & season=2,0.04737368299623164,3
+demand=normal & period=morning_peak & weather=1,0.07090671383526878,3
+period=night & season=1 & weather=1,0.04491271245097285,3
+daytype=1 & season=4 & weather=2,0.03260785972467892,3
+demand=normal & season=3 & weather=1,0.09159424748135046,3
+daytype=1 & demand=normal & weather=2,0.14073675305698685,3

@@ -1,0 +1,13 @@
+﻿month,weather_name,period,observed_hours,rentals,mean_rentals
+7,clear,evening_peak,65,40931,629.71
+7,clear,morning_peak,41,20123,490.8
+7,mist_cloudy,evening_peak,14,8144,581.71
+7,mist_cloudy,morning_peak,21,10055,478.81
+8,clear,evening_peak,64,42640,666.25
+8,clear,morning_peak,30,15542,518.07
+8,mist_cloudy,evening_peak,21,13578,646.57
+8,mist_cloudy,morning_peak,35,17106,488.74
+9,clear,evening_peak,60,42653,710.88
+9,clear,morning_peak,43,23734,551.95
+9,mist_cloudy,evening_peak,13,7976,613.54
+9,mist_cloudy,morning_peak,12,5506,458.83

@@ -1,0 +1,16 @@
+{
+  "source_rows": 17379,
+  "clean_rows": 17379,
+  "exact_duplicates_removed": 0,
+  "missing_cells": 0,
+  "calendar_hours": 17544,
+  "missing_hours": 165,
+  "date_count": 731,
+  "total_rentals": 3292679,
+  "min_timestamp": "2011-01-01 00:00:00",
+  "max_timestamp": "2012-12-31 23:00:00",
+  "daily_totals_reconciled": true,
+  "complete_24h_days": 655,
+  "policy": "缺行不是零租赁；仓库只记录真实观测，监督学习不填造标签；保留极端真实高峰。",
+  "metadata_note": "UCI 网页样本数与 season/温度说明和原始文件存在差异；以实际 CSV 行数为准，season 保留编码，温度保留原始归一化值。"
+}

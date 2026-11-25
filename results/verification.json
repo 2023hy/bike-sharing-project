@@ -1,0 +1,20 @@
+{
+  "notebook_code_cells_executed": 12,
+  "notebook_errors": 0,
+  "unit_and_integration_tests_passed": 5,
+  "embedded_report_charts": 6,
+  "chart_visual_review": "All six plots inspected; labels and curves readable.",
+  "warehouse_tables": {
+    "dim_date": 731,
+    "dim_hour": 24,
+    "dim_weather": 4,
+    "dim_season": 4,
+    "dim_daytype": 3,
+    "fact_rentals": 17379,
+    "etl_log": 1,
+    "dim_model": 6,
+    "fact_predictions": 13008
+  },
+  "pipeline_command": "python project.py",
+  "test_command": "python -m unittest discover -s tests -v"
+}

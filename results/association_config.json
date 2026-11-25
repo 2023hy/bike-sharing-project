@@ -1,0 +1,11 @@
+{
+  "min_support": 0.03,
+  "min_confidence": 0.5,
+  "max_itemset_length": 3,
+  "train_transactions": 13003,
+  "test_transactions": 2168,
+  "train_high_base_rate": 0.24825040375298008,
+  "test_high_base_rate": 0.3593173431734317,
+  "threshold": 248.0,
+  "rule_count": 5
+}

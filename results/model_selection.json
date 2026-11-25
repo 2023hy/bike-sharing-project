@@ -1,0 +1,38 @@
+{
+  "regression_selected": "HistGradientBoosting",
+  "classification_selected": "RandomForest",
+  "high_demand_threshold": 248.0,
+  "threshold_fit_period": "train only",
+  "probability_cutoff": 0.5,
+  "regression_selection": "validation MAE minimum",
+  "classification_selection": "validation F1 maximum",
+  "prediction_protocol": "Rolling one-step: predict hour t using calendar(t) and observations <= t-1. Model is fixed after train+validation refit.",
+  "features": [
+    "hour",
+    "weekday",
+    "month",
+    "season",
+    "daytype",
+    "trend_days",
+    "hour_sin",
+    "hour_cos",
+    "lag_1",
+    "lag_2",
+    "lag_24",
+    "lag_168",
+    "roll_mean_24",
+    "roll_mean_168",
+    "roll_std_24",
+    "observed_past_24",
+    "temp_prev",
+    "hum_prev",
+    "windspeed_prev",
+    "weather_prev"
+  ],
+  "interval": {
+    "nominal_coverage": 0.9,
+    "empirical_coverage": 0.8187269372693727,
+    "mean_width": 120.00209408159058,
+    "raw_quantile_crossing_fraction": 0.0
+  }
+}
